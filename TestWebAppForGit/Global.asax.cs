@@ -12,7 +12,7 @@ namespace TestWebAppForGit
 
         void Application_Start(object sender, EventArgs e)
         {
-            // Code that runs on application startup just to check
+            // Code that runs on application startup 
 
         }
 
